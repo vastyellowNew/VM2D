@@ -13,8 +13,8 @@
 
 problems = 
 {
-circle200(np=1),
-//cylPlate(),
+//circle200(np=1),
+cylPlate(),
 //rectNuriev(),
 //boatNuriev(),
 //blasius(np=4),

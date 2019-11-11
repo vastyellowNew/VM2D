@@ -1,11 +1,10 @@
 #!/bin/bash
-#PBS -N VM2D_Marchevsky
+#PBS -N VM2Dcp_Soldatova
 #PBS -S /bin/bash
 #PBS -l walltime=48:00:00
-#PBS -l nodes=2:ppn=12
-#PBS -q bl220
-#PBS -d /unicluster/home/guest13/VortTest/run
+#PBS -l nodes=1:ppn=4
+#PBS -d /home/marchevsky/VM2DcylPlate
 
 cat $PBS_NODEFILE
 
-mpirun -machinefile $PBS_NODEFILE -np 2 -map-by slot:pe=12 VM2D > log.log
+mpirun -np 2 -map-by slot:pe=4 VM2D > log.log
