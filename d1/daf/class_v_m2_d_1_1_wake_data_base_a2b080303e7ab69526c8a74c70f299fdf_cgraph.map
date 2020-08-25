@@ -1,0 +1,9 @@
+<map id="VM2D::WakeDataBase::~WakeDataBase" name="VM2D::WakeDataBase::~WakeDataBase">
+<area shape="rect" id="node2" href="$d1/daf/class_v_m2_d_1_1_wake_data_base.html#a1d24ee8c0b7f8464b21d8a06eb0025cb" title="Считывание вихревого следа из файла " alt="" coords="212,67,371,109"/>
+<area shape="rect" id="node6" href="$df/dc0/group___parallel.html#ga75fa9eab08bd59596c5e083b049f6a2d" title="MPI&#45;синхронизация вихревого следа " alt="" coords="212,150,371,191"/>
+<area shape="rect" id="node3" href="$dd/d9a/namespace_v_mlib.html#ae3a5ec63fcc3cbe01aff37e15be7c559" title="Проверка существования файла " alt="" coords="448,5,584,32"/>
+<area shape="rect" id="node4" href="$d6/d3d/class_v_mlib_1_1_world_gen.html#a1e4a5ddd756b4d42e0f6f2d1e6354ce6" title="Возврат ссылки на объект LogStream Используется в техничеcких целях для организации вывода ..." alt="" coords="431,56,601,83"/>
+<area shape="rect" id="node5" href="$db/d04/class_v_mlib_1_1_stream_parser.html#a9fae0e4418f1053a6633ca35408aff4b" title="Считывание вектора из двумерных точек из базы данных " alt="" coords="431,107,601,133"/>
+<area shape="rect" id="node7" href="$d3/d00/class_v_m2_d_1_1_world2_d.html#ad6e8be35ddb45e8bafa59da745af8ef3" title="Возврат ссылки на временную статистику выполнения шага расчета по времени " alt="" coords="419,157,613,184"/>
+<area shape="rect" id="node8" href="$d6/d3d/class_v_mlib_1_1_world_gen.html#a5dab6ba8b33dffd34c2e9ff04a00b185" title="Возврат константной ссылки на параметры распараллеливания по MPI. " alt="" coords="421,208,611,235"/>
+</map>
